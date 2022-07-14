@@ -20,10 +20,6 @@ And #2 being the displayed list of running processes on the current computer and
 /Asynchronization-and-processes-in-C#
 
 
-Please note part of the destination has been replaced with '-----'. If you would like to run this program, please replace it with your username, as I don't want to potentially dox myself.
-
-![codebehind_async](https://user-images.githubusercontent.com/101861214/178963010-e9027a08-534c-4663-a48a-b0d1a87ecb20.png)
-
 
 The current running processes: 
 
@@ -37,6 +33,8 @@ How it looks when written to a textfile:
 The source code:
 
 ![sourcecode_async](https://user-images.githubusercontent.com/101861214/178963711-fc37465c-f280-406e-8d28-46e210668a04.png)
+
+Please note part of the destination has been replaced with '-----'. If you would like to run this program, please replace it with your username, as I don't want to potentially dox myself.
 
 ![sourcecode_async_2](https://user-images.githubusercontent.com/101861214/178963727-0c945121-e0d2-44cd-8bd3-901643ea0d57.png)
 
