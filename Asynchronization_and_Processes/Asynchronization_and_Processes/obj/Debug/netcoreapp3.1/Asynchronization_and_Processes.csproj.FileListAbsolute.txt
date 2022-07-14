@@ -1,0 +1,14 @@
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\bin\Debug\netcoreapp3.1\Asynchronization_and_Processes.exe
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\bin\Debug\netcoreapp3.1\Asynchronization_and_Processes.deps.json
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\bin\Debug\netcoreapp3.1\Asynchronization_and_Processes.runtimeconfig.json
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\bin\Debug\netcoreapp3.1\Asynchronization_and_Processes.runtimeconfig.dev.json
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\bin\Debug\netcoreapp3.1\Asynchronization_and_Processes.dll
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\bin\Debug\netcoreapp3.1\Asynchronization_and_Processes.pdb
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.csproj.AssemblyReference.cache
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.AssemblyInfoInputs.cache
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.AssemblyInfo.cs
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.csproj.CoreCompileInputs.cache
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.dll
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.pdb
+C:\Users\jmarx\source\repos\Asynchronization_and_Processes\Asynchronization_and_Processes\obj\Debug\netcoreapp3.1\Asynchronization_and_Processes.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asynchronization_and_Processes/1.0.0": {
+        "runtime": {
+          "Asynchronization_and_Processes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asynchronization_and_Processes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

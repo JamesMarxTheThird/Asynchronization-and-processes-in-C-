@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnHTHUtDtillGsY9uVFbGaCI9EzEAqFJLr4urwJT+qv0f8UW+OVQD1VxpIdPzwCSfydmhsH5Wie+87tT1Ztq/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmarx\\source\\repos\\Asynchronization_and_Processes\\Asynchronization_and_Processes\\Asynchronization_and_Processes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmarx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
