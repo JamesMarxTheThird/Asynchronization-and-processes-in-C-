@@ -1,4 +1,4 @@
-# Asynchronization-and-processes-in-C#-
+# Asynchronization-and-processes-in-C#
 
 Background:
 
